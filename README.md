@@ -42,5 +42,5 @@ make
 
 
 ## Other Notes
-* [About SUMO](https://hackmd.io/rrEQsktVSK6cwu3DQc_cZQ?view)
+* [About SUMO](https://hackmd.io/rrEQsktVSK6cwu3DQc_cZQ)
 * [Usage of functions](https://hackmd.io/_pqioOhPShOvJ8Va8xNbWQ)
